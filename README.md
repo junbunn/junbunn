@@ -12,3 +12,9 @@ ${\textsf{\color{#FEFFF1}𝕬𝖓𝖉 𝕴'𝖒𝖆 𝖙𝖍𝖗𝖔𝖜 𝖙�
 ![](https://komarev.com/ghpvc/?username=th-vm&color=060A0D&style=for-the-badge&abbreviated=true)
 
 wip !!
+
+<p align="left">
+${\textsf{\color{#FEFFF1}I am still trying to figure out the whole coding thing,
+  so until i get everything done, this is what you get for the time being.
+  While you're checking out my page, go sign my ata ok?}}$
+</p>
